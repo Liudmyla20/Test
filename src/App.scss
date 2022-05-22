@@ -1,0 +1,15 @@
+.App {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #FECD0A;
+  position: relative;
+  .top-section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 154px;
+    font-weight: 700;
+    text-shadow: 5px 3px 5px rgba(0, 0, 0, 0.5);
+  }
+}
